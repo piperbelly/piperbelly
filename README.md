@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @hawari-882
-- 👀 I’m interested in Web Programming, especially in Front-end
-- 🌱 I’m currently learning CSS & JS
-- 💞️ I’m looking to collaborate on a small website projects
+This is 2nd account of [Hawari Muflih Munte](https://github.com/hawariMuflihMunte)
